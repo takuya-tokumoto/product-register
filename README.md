@@ -27,4 +27,7 @@ rails s -b 0.0.0.0
 
 ## 作成物を確認
 - ローカルPCからrailsを起動した場合、ブラウザから`localhost:3000`で確認可能
-
+- topページが表示されたら成功
+- `~/products`に遷移することでデータをためる機能を確認できる
+![Example Image](toppage.png)
+![Example Image](products_new.png)
