@@ -1,6 +1,6 @@
 # README
 
-- [米国AI開発者がゼロから教えるDocker講座](https://www.udemy.com/course/aidocker/)の応用編第二弾(part1)で作成したruby開発用コンテナを起動するためのdocker-file構成
+- [米国AI開発者がゼロから教えるDocker講座](https://www.udemy.com/course/aidocker/)の応用編第二弾(part1)で作成したruby開発用コンテナを起動するためのdocker構成
 
 # 手順
 
@@ -23,5 +23,5 @@ rails s -b 0.0.0.0
 ```
 
 ## 作成物を確認
-- ローカルPCからrailsを起動した場合、'http://localhost:3000'で確認可能
+- ローカルPCからrailsを起動した場合、ブラウザから`localhost:3000`で確認可能
 
