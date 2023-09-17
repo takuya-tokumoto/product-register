@@ -19,6 +19,9 @@ docker-compose exec web bash
 
 ## コンテナ内でrailsを起動
 ```
+rails db:create
+#rails g scaffold product name:string price:integer vendor:string
+rails db:migrate
 rails s -b 0.0.0.0
 ```
 
