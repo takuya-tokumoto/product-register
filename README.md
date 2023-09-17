@@ -1,12 +1,12 @@
 # README
 
-- [米国AI開発者がゼロから教えるDocker講座](https://www.udemy.com/course/aidocker/)の応用編第二弾(part1)で作成したruby開発用コンテナを起動するため
+- [米国AI開発者がゼロから教えるDocker講座](https://www.udemy.com/course/aidocker/)の応用編第二弾(part1)で作成したruby開発用コンテナを起動するためのdocker-file構成
 
 # 手順
 
 ## 任意の配下に'git clone'
 ```
-git clone 
+git clone https://github.com/takuya-tokumoto/product-register.git
 ```
 
 ## docker-composeでコンテナを起動
